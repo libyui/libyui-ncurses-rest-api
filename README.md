@@ -1,11 +1,14 @@
-# libyui-ncurses-rest-api
 
-These are the [libyui REST API](https://github.com/libyui/libyui-rest-api)
-bindings for the [libyui-ncurses](https://github.com/libyui/libyui-ncurses-rest-api)
-UI frontend.
+Obsoleted Repository
+====================
 
-This package contains ncurses specific handling of the actions. Library is dynamically
-loaded based on UI being used by the YaST application.
+**This repository is obsoleted and is not used anymore.**
 
-See the libyui REST API [documentation](https://github.com/libyui/libyui-rest-api)
-for more details.
+All the code has been merged into the new [libyui](https://github.com/libyui/libyui) repository. For now on, please use that repository.
+
+
+GIT
+---
+
+If you want to see the last state check the [*master_old*](../../tree/master_old) branch.
+
